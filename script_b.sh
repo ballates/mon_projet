@@ -8,3 +8,4 @@ echo "Votre nom d'utilisateur est: $USER"
 
 # Lister les fichiers du répertoire courant
 ls -l
+#hjhjfdhfh
